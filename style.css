@@ -1,5 +1,6 @@
 body {
-  background-image: url('Road in the middle of a forest with trees and fog.jpg');
+/*   background-image: url('Road in the middle of a forest with trees and fog.jpg'); */
+  background-color: 'blue';
   color: white;
 }
 
